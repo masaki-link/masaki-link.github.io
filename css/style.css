@@ -1518,6 +1518,7 @@ comments
      -moz-appearance: none;
           appearance: none;
   border: none;
+  border-radius: 0;
   border-bottom: 1px solid #CECDCD;
 }
 
