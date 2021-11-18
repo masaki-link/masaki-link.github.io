@@ -1500,6 +1500,7 @@ comments
   width: 532px;
   max-width: 100%;
   margin-left: 60px;
+  border-radius: 0;
 }
 
 @media (max-width: 767px) {
