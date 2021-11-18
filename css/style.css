@@ -1577,12 +1577,6 @@ comments
   }
 }
 
-@media (max-width: 767px) {
-  .contact-item__input select option {
-    font-size: 16px;
-  }
-}
-
 .contact-item__radio {
   width: 532px;
   max-width: 100%;
