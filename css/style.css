@@ -1553,6 +1553,7 @@ comments
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
+  font-size: 16px;
   /* デフォルトのスタイルを無効 */
   background-image: url(../img/selectarrow.png);
   background-position: right 12px center;
