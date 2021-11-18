@@ -931,6 +931,7 @@ img {
 }
 
 .price-table__price {
+  width: calc(100% - 262px);
   padding: 10px 40px;
   background: #fff;
   line-height: 1;
@@ -938,6 +939,7 @@ img {
 
 @media (max-width: 767px) {
   .price-table__price {
+    width: calc(100% - 100px);
     padding: 10px 20px;
     font-size: 18px;
     letter-spacing: 1px;
