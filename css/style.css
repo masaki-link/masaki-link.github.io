@@ -1500,6 +1500,7 @@ comments
   width: 532px;
   max-width: 100%;
   margin-left: 60px;
+  -webkit-appearance: none;
   border-radius: 0;
 }
 
@@ -1517,8 +1518,8 @@ comments
   padding: 2px 12px;
   -moz-appearance: none;
        appearance: none;
-  -webkit-appearance: none;
   border: none;
+  -webkit-appearance: none;
   border-radius: 0;
   border-bottom: 1px solid #CECDCD;
 }
